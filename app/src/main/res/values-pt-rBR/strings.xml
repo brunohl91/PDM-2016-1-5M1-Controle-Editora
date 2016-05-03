@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PDM_5N1 Trabalho Editora</string>
+    <string name="lbl_title">Bem-Vindo</string>
+    <string name="lbl_titulo">Título</string>
+    <string name="lbl_autor">Autor</string>
+    <string name="lbl_ano">Ano</string>
+    <string name="btn_cadastrar">Inserir</string>
+    <string name="btn_limpar">Limpar</string>
+    <string name="btn_list">Lista</string>
+    <string name="strEscolhaOpcao">Escolha uma opção</string>
+    <string name="strDeletar">Remover</string>
+    <string name="strEditar">Editar</string>
+    <string name="strMsgRemovidoSucesso">Livro removido!</string>
+    <string name="strMsgRemovidoFalha">O Livro não pode ser removido</string>
+    <string name="msgOpcaoInvalida">Opção inválida</string>
+    <string name="msgSuccessUpdate">Livro atualizado!</string>
+    <string name="msgFailUpdate">O livro não pode ser atualizado!</string>
+    <string name="lbl_edit">Editar</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="lbl_id">ID</string>
+    <string name="btn_editar">Atualizar</string>
+    <string name="strMsgInsertSucesso">Livro inserido!</string>
+    <string name="strMsgInsertFalha">O livro não pode ser inserido!</string>
+    <string name="msgInvalidYear">Ano inválido</string>
+</resources>
